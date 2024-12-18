@@ -1,11 +1,12 @@
 Firts-web
-======================================= <br>
+=======================================<br>
 + Supervisor: Huỳnh Huy
 + Semester: I
 + Batch No: Thầy
 + Group No:: Zeros-web
 =======================================
-+ Supervisor: LÊ THANH NHÂN
+<br>
++ Supervisor: Huỳnh Quốc Huy
 + Semester: I
 + Batch No: Thầy
 + Group No:: Zero
